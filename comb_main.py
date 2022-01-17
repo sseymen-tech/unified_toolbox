@@ -1,6 +1,5 @@
 from gurobipy import *
 import numpy as np
-from surprise import dump
 import math
 import os
 import pandas as pd
